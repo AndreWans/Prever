@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/31 15:09:54.000.591,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:13:35.000.702,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:14:08.000.577,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:17:20.400,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:35:44.559,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UPrincipal.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:35:44.559,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UPrincipal.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/08/31 15:36:11.162,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:39:09.283,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx1.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/08/31 15:39:09.283,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx1.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 15:43:12.517,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Prova.dproj=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2019/08/31 16:16:57.242,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:18:39.275,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx2.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:18:39.275,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx2.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/08/31 16:55:50.850,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:56:26.383,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx3.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/08/31 16:56:26.383,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx3.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:56:33.272,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:59:05.443,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx4.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/31 16:59:05.443,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UProgEx4.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/09/01 17:27:21.553,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 17:34:31.808,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UBancoDados.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 17:34:31.808,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UBancoDados.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/09/01 18:23:08.713,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 18:23:41.408,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UTecnologias.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 18:23:41.408,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UTecnologias.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/09/01 20:14:53.355,=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 20:15:10.635,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UNegocios.pas=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/01 20:15:10.635,C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\UNegocios.dfm=C:\Users\Elotech\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
